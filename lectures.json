@@ -1,0 +1,77 @@
+{
+  "courses": [
+    {
+      "id": "radiomaterials",
+      "title": "Радиоматериалы",
+      "subtitle": "Материалы и компоненты",
+      "lectures": [
+        {
+          "id": "1",
+          "title": "Лекция 1",
+          "folder": "1",
+          "images": [
+            "lectures/radiomaterials/1/01.svg",
+            "lectures/radiomaterials/1/02.svg"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Лекция 2",
+          "folder": "2",
+          "images": [
+            "lectures/radiomaterials/2/01.svg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "electronics",
+      "title": "Электроника",
+      "subtitle": "Приборы и схемы",
+      "lectures": [
+        {
+          "id": "1",
+          "title": "Лекция 1",
+          "folder": "1",
+          "images": [
+            "lectures/electronics/1/01.svg",
+            "lectures/electronics/1/02.svg"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Лекция 2",
+          "folder": "2",
+          "images": [
+            "lectures/electronics/2/01.svg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "otc",
+      "title": "ОТЦ",
+      "subtitle": "Основы теории цепей",
+      "lectures": [
+        {
+          "id": "1",
+          "title": "Лекция 1",
+          "folder": "1",
+          "images": [
+            "lectures/otc/1/01.svg",
+            "lectures/otc/1/02.svg"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Лекция 2",
+          "folder": "2",
+          "images": [
+            "lectures/otc/2/01.svg",
+            "lectures/otc/2/02.svg"
+          ]
+        }
+      ]
+    }
+  ]
+}

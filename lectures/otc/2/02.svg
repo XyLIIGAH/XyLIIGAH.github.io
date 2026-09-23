@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#101826"/>
+  <rect x="48" y="48" width="1504" height="804" rx="28" fill="#182234" stroke="#2a3b55"/>
+  <text x="96" y="130" fill="#f0b429" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Лекция 2</text>
+  <text x="96" y="230" fill="#eef3fb" font-family="Segoe UI, Arial" font-size="64" font-weight="800">Резонанс</text>
+  <text x="96" y="330" fill="#9fb0c9" font-family="Segoe UI, Arial" font-size="36">ω₀ = 1 / √(LC)  ·  Последовательный и параллельный контуры</text>
+  <text x="96" y="800" fill="#6f7f96" font-family="Segoe UI, Arial" font-size="24">Слайд 2 из 2 · пример, замените своими картинками</text>
+</svg>
