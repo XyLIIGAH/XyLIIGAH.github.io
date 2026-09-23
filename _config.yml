@@ -1,22 +1,26 @@
 title: Лекции
 description: Радиоматериалы • Электроника • ОТЦ
+author: Студент
 
-# Подключаем Minima через remote_theme с фиксацией коммита
+# Тема Minima, зафиксированная на конкретном коммите
 remote_theme: jekyll/minima@1e8a445
 
-# Плагины (jekyll-remote-theme обязателен для remote_theme)
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
 
-# Настройки Minima
 minima:
-  skin: auto  # автоматическая тёмная/светлая тема
+  skin: auto
   date_format: "%d.%m.%Y"
   nav_pages:
     - index.md
 
-# Исключаем manifest.json из обработки Jekyll (чтобы не пытался его парсить)
+show_excerpts: false
+
+# Не даём Jekyll трогать manifest.json
 exclude:
-  - "*/manifest.json"
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - vendor/
