@@ -1,0 +1,30 @@
+---
+---
+
+@import "minima";
+
+/* Ваши кастомные стили — те же, что были в style.css */
+.sections-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.section-card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 40px 24px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.section-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 32px rgba(52, 152, 219, 0.18);
+}
+
+/* ... остальные стили ... */
