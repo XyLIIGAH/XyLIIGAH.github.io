@@ -24,6 +24,34 @@ LINKS = [
         "href": "https://XyLIIGAH.github.io/lectures/electronics/0/1.pdf",
         "icon": "book",
     },
+    {
+    "id": "mathkniga",
+    "title": "Книга по СГМ",
+    "subtitle": "Содержит несколько полезных тем из ДГМ",
+    "href": "https://XyLIIGAH.github.io/lectures/electronics/0/2.pdf",
+    "icon": "pdf",
+  },
+  {
+    "id": "resheb",
+    "title": "Задачник по ДГМ",
+    "subtitle": "Оттуда берёт задачи на практику И.А. Шестакова",
+    "href": "https://XyLIIGAH.github.io/lectures/electronics/0/3.pdf",
+    "icon": "pdf",
+  },
+  {
+    "id": "linux",
+    "title": "Книга 'Внутреннее устройство Linux'",
+    "subtitle": "Книга Д.В. Кетова, по ней составляет презентации препод по Linux (файл весом >100 МБ на сайт нельзя загрузить)",
+    "href": "https://vk.ru/wall-159224823_101056",
+    "icon": "link",
+  },
+  {
+    "id": "otc",
+    "title": "ГИПЕРМЕТОД",
+    "subtitle": "Содержит все материалы по ОТЦ",
+    "href": "https://learn.urfu.ru/subject/lessons/index/subject_id/2585",
+    "icon": "link",
+  }
 ]
 
 
