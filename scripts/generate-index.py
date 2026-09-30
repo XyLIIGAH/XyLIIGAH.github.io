@@ -38,6 +38,20 @@ LINKS = [
     "href": "https://XyLIIGAH.github.io/lectures/electronics/0/3.pdf",
     "icon": "pdf",
   },
+   {
+    "id": "electronicbaza",
+    "title": "Примерный перечень вопросов к зачету по электронике",
+    "subtitle": "Составлен на основе учебного пособия А.А. Дурнакова",
+    "href": "https://XyLIIGAH.github.io/lectures/electronics/0/electronic.pdf",
+    "icon": "pdf",
+  },
+  {
+    "id": "radiobaza",
+    "title": "Перечень вопросов к зачету по радиоматериалам",
+    "subtitle": "Взят с курса на сайте elearn",
+    "href": "https://XyLIIGAH.github.io/lectures/electronics/0/radio.pdf",
+    "icon": "pdf",
+  },
   {
     "id": "linux",
     "title": "Книга 'Внутреннее устройство Linux'",
