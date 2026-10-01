@@ -39,17 +39,24 @@ LINKS = [
     "icon": "pdf",
   },
    {
-    "id": "electronicbaza",
+    "id": "electronicbazaq",
     "title": "Примерный перечень вопросов к зачету по электронике",
     "subtitle": "Составлен на основе учебного пособия А.А. Дурнакова",
     "href": "https://XyLIIGAH.github.io/lectures/electronics/0/electronic.pdf",
     "icon": "pdf",
   },
   {
-    "id": "radiobaza",
+    "id": "radiobazaq",
     "title": "Перечень вопросов к зачету по радиоматериалам",
     "subtitle": "Взят с курса на сайте elearn",
     "href": "https://XyLIIGAH.github.io/lectures/electronics/0/radio.pdf",
+    "icon": "pdf",
+  },
+  {
+    "id": "otcbazaq",
+    "title": "Перечень вопросов к зачету по ОТЦ",
+    "subtitle": "Взят с курса на сайте ГИПЕРМЕТОД'а",
+    "href": "https://XyLIIGAH.github.io/lectures/electronics/0/otc.pdf",
     "icon": "pdf",
   },
   {
